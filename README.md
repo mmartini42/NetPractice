@@ -98,5 +98,5 @@ level 7 must simply make two user interfaces communicate via two routers.</p>
 
 <h2 align="left">⚖️ Copyright</h2>
 <p align="left">
-  Mathis Martini (mmartini42) © 2021
+  Mathis Martini (mmartini42) © 2022
 </p>
